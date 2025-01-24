@@ -1,1 +1,2 @@
 # Outlier-Detection-Techniques-using-Python
+This project explores various methods for detecting and handling outliers in datasets using Python. It demonstrates the implementation of popular outlier detection techniques, including Z-score, IQR, and K-means clustering, along with code examples and visualizations. The project aims to provide a practical understanding of outlier detection and its importance in data analysis.
